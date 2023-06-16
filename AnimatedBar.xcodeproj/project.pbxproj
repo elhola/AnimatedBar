@@ -11,6 +11,7 @@
 		03F3BF1F2A39A77E00E2CBAD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03F3BF1E2A39A77E00E2CBAD /* ContentView.swift */; };
 		03F3BF212A39A77F00E2CBAD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03F3BF202A39A77F00E2CBAD /* Assets.xcassets */; };
 		03F3BF242A39A77F00E2CBAD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03F3BF232A39A77F00E2CBAD /* Preview Assets.xcassets */; };
+		03F3BF2B2A39A7DE00E2CBAD /* CustomTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03F3BF2A2A39A7DE00E2CBAD /* CustomTabBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		03F3BF1E2A39A77E00E2CBAD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		03F3BF202A39A77F00E2CBAD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		03F3BF232A39A77F00E2CBAD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		03F3BF2A2A39A7DE00E2CBAD /* CustomTabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		03F3BF1B2A39A77E00E2CBAD /* AnimatedBar */ = {
 			isa = PBXGroup;
 			children = (
+				03F3BF2A2A39A7DE00E2CBAD /* CustomTabBar.swift */,
 				03F3BF1C2A39A77E00E2CBAD /* AnimatedBarApp.swift */,
 				03F3BF1E2A39A77E00E2CBAD /* ContentView.swift */,
 				03F3BF202A39A77F00E2CBAD /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				03F3BF1F2A39A77E00E2CBAD /* ContentView.swift in Sources */,
+				03F3BF2B2A39A7DE00E2CBAD /* CustomTabBar.swift in Sources */,
 				03F3BF1D2A39A77E00E2CBAD /* AnimatedBarApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
